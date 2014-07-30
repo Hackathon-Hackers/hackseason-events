@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Cal Hacks",
+    "description": "Cal Hacks",
+    "thumbnail": "./assets/calhacks_thumbnail.png",
+    "banner": "./assets/calhacks_banner.png",
+    "start_date": "2014-10-03",
+    "end_date": "2014-10-05",
+    "website_url": "https://www.calhacks.io",
+    "register_url": "https://apply.calhacks.io",
+    "support_email": "team@calhacks.io",
+    "sponsor_email": "sponsor@calhacks.io",
+    "facebook": "calhacks",
+    "twitter": "calhacks",
+    "location": "210 Stadium Rim Way, Berkeley, CA 94720",
+    "travel_reimbursement": "full",
+    "event_size": "1200",
+    "hs_hackers": "true",
+    "keywords": [
+      "UC Berkeley",
+      "University of California",
+      "California",
+      "Berkeley"
+    ]
+  }
+]
