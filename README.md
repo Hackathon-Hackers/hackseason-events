@@ -8,7 +8,7 @@ This repo is meant for students to add their event to www.hackseason.com. Please
   1. name - event name
   2. description - 100 word limit
   3. thumbnail - 100 x 100px PNG (300DPI)
-  4. banner - 500 x 150px PNG (300DPI)
+  4. banner - 851 x 314px PNG (300DPI) - Same as Facebook Banner
   5. start_date - YYYY-MM-DD
   6. end_date - YYYY-MM-DD
   7. website_url - must be a full url
