@@ -22,5 +22,29 @@
       "California",
       "Berkeley"
     ]
+  },
+  {
+    "name": "HackGT",
+    "description": "HackGT",
+    "thumbnail": "./assets/hackgt_thumbnail.png",
+    "banner": "./assets/hackgt_banner.png",
+    "start_date": "2014-09-19",
+    "end_date": "2014-09-21",
+    "website_url": "http://hackgt.com",
+    "register_url": "http://hackgt.com/register.html",
+    "support_email": "hello@hackgt.com",
+    "sponsor_email": "hello@hackgt.com",
+    "facebook": "HackGT",
+    "twitter": "thehackgt",
+    "location": "266 Ferst Drive, Atlanta, GA 30318",
+    "travel_reimbursement": "$200",
+    "event_size": "1000",
+    "hs_hackers": "false",
+    "keywords": [
+      "Georgia Tech",
+      "Georgia Institute of Technology",
+      "GT",
+      "Atlanta"
+    ]
   }
 ]
