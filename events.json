@@ -46,5 +46,29 @@
       "GT",
       "Atlanta"
     ]
+  },
+  {
+    "name": "HackMIT",
+    "description": "MIT's premier university hackathon",
+    "thumbnail": "./assets/hackmit_thumbnail.png",
+    "banner": "./assets/hackmit_banner.jpg",
+    "start_date": "2014-10-04",
+    "end_date": "2014-10-05",
+    "website_url": "https://hackmit.org/",
+    "register_url": "https://hackmit.org/",
+    "support_email": "team@hackmit.org",
+    "sponsor_email": "team@hackmit.org",
+    "facebook": "HackMIT",
+    "twitter": "hackmit",
+    "location": "77 Massachusetts Ave, Cambridge, MA 02139",
+    "travel_reimbursement": "$200",
+    "event_size": "1000",
+    "hs_hackers": "false",
+    "keywords": [
+      "MIT",
+      "Massachusetts Institute of Technology",
+      "Cambridge",
+      "Boston"
+    ]
   }
 ]
