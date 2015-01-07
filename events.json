@@ -70,5 +70,30 @@
       "Cambridge",
       "Boston"
     ]
-  }
+  },
+  {
+    "name": "nwHacks",
+    "description": "the premiere hackathon of the Pacific Northwest",
+    "thumbnail": "./assets/nwhacks_thumbnail.png",
+    "banner": "./assets/nwhacks_banner.png",
+    "start_date": "2015-01-09",
+    "end_date": "2015-01-11",
+    "website_url": "https://2015.nwhacks.com",
+    "register_url": "https://2015.nwhacks.com",
+    "support_email": "david@nwhacks.com",
+    "sponsor_email": "sponsor@nwhacks.com",
+    "facebook": "nwhacks",
+    "twitter": "nwhacks",
+    "location": "2350 Health Sciences Mall, University of British Columbia, Vancouver, BC V6T1Z3",
+    "travel_reimbursement": "100",
+    "event_size": "350",
+    "hs_hackers": "true",
+    "keywords": [
+      "UBC",
+      "University of British Columbia",
+      "Pacific Northwest",
+      "Cascadia",
+      "Canada",
+    ]
+  },
 ]
